@@ -25,7 +25,7 @@ I love reading, exercising, and communicating!
 
 ## 💫 Experience
 
-### 💡 [HeartLink](https://github.com/CSE24-HeartLink) — AI SNS App (2024)
+### ♥️ [HeartLink](https://github.com/CSE24-HeartLink) — AI SNS App (2024)
 > Developed as a team project for the courses **Artificial Intelligence and Applications** and **Software Engineering**.
 -  An AI-powered social networking app that enables voice-based sharing and interaction through generative AI.
 - Features include speech-to-text, image generation, and a virtual pet named **CLOi** powered by AI
