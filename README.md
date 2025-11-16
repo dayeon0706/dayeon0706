@@ -6,7 +6,6 @@
 
 > Hello! I’m **Dayeon Kim**, someone who grows through **effort and passion** 😊
 
-![Profile Image](attachment:e8d2f147-a977-4454-900c-2fd93e36bff9:image.png)
 
 - 🎂 **Birth**: July 6th, 2002  
 - ✉️ **Email**: jewelry0706@hanyang.ac.kr  
@@ -32,7 +31,7 @@ I love reading, exercising, and communicating!
 > An AI-powered social networking app that enables voice-based sharing and interaction through generative AI.
 - Features include speech-to-text, image generation, and a virtual pet named **CLOi** powered by AI
 
----
+
 
 #### 🚀 KAIST Immersive Coding Bootcamp ‘MolipCamp’ (Jan 2025 – Feb 2025)
 
@@ -40,8 +39,6 @@ I love reading, exercising, and communicating!
 - Week 2: _[Project Hail Mary](https://github.com/dayeon0706/madcamp_week2)_ — Bucket list web app  
 - Week 3: _[Dazed Island](https://github.com/dayeon0706/madcamp_week3)_ — Self-reflection website  
 - Week 4: _[Langly](https://github.com/dayeon0706/madcamp_week4)_ — Language learning app
-
----
 
 #### 🧪 Myrealtrip AI Lab — Intern (Mar 2025 – Jun 2025)
 
