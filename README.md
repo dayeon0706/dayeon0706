@@ -15,7 +15,7 @@
 
 ### 👩‍💻 Introduction
 
-I am a student majoring in Information Systems at Hanyang University 🇰🇷.  
+I am a student majoring in Information Systems at Hanyang University  
 I am currently deeply interested in **RLHF**, **AI Alignment**, and **AI Safety**.  
 I love reading, exercising, and communicating!
 
@@ -34,7 +34,7 @@ I love reading, exercising, and communicating!
 - Week 3: _[Dazed Island](https://github.com/dayeon0706/madcamp_week3)_ — Self-reflection website  
 - Week 4: _[Langly](https://github.com/dayeon0706/madcamp_week4)_ — Language learning app
 
-#### 🧪 Myrealtrip AI Lab — Intern (Mar 2025 – Jun 2025)
+#### ✈️ Myrealtrip AI Lab — Intern (Mar 2025 – Jun 2025)
 
 - Supported the company’s AI literacy and implementation initiatives  
 - Built the internal AI website _ai-kimdayeon_  
