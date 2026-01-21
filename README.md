@@ -18,7 +18,7 @@
 ## 👩‍💻 Introduction
 
 I am a student majoring in Information Systems at Hanyang University  
-I am currently deeply interested in **RLHF**, **AI Alignment**, and **AI Safety**.  
+I am currently deeply interested in **Computer Vision (Image & Video Understanding)**, **Human-AI interaction**, and **AI Safety**.  
 I love reading, exercising, and communicating!
 
 <br>
