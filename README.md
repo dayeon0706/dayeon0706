@@ -57,5 +57,5 @@ I love reading, exercising, and communicating!
 
 ## ✨ Summary
 
-- 🔭 Currently exploring **AI Safety, RLHF, and Alignment**  
+- 🔭 Currently exploring**Computer Vision (Image & Video Understanding)**, **Human-AI interaction**, and **AI Safety**.  
 - 🌱 Learning and building in the AI ecosystem  
